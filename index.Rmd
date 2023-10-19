@@ -35,8 +35,11 @@ plot_df |>
   geom_point()
 ```
 # Here's a new section
-My cat is ted. This is ted:
+My cat is ted. This is ted: 
 ![](images/ted.jpg) 
 
 also here's the "backstage" are in Alumni Auditorium:
 ![](images/backstage.jpg)
+
+Here's a link to the [about](About.html) page
+
