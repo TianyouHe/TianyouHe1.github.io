@@ -10,3 +10,28 @@ output:
 # This is Jeff's awesome website
 
 ![](https://media.giphy.com/media/drXGoW1iudhKw/giphy.gif)
+You can add text
+
+* and lists
+* with extra bullets
+
+You can *FORMAT* and **bold?**
+
+This  is a [link](https://www.google.com) to a google.
+Here's a link to [p8105](https://p8105.com). SOON: a link to another page on this site
+
+You can also 
+
+```{r}
+library(tidyverse)
+
+plot_df = 
+  tibble(
+    x = runif(100),
+    y = 1+2*x + rnorm(100)
+  )
+plot_df |>
+  ggplot(aes(x = x, y = y))+
+  geom_point()
+```
+
