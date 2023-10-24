@@ -45,4 +45,4 @@ Here's a link to the [about](About.html) page
 
 # Other stuff on this page
 
-Definitely there is [plotly](plotly.html)
+Definitely there is [plotly](plotly.html) stuff!
