@@ -9,6 +9,8 @@ navbar:
       href: mailto:<th3072@cumc.columbia.edu>
     - icon: fa-github fa-lg
       href: http://github.com/TianyouHe/
+    - text: "Project"
+      href: project.html
 output:
   html_document:
     theme: cerulean
